@@ -21,3 +21,5 @@ That's annoying, right? That's your solution
 * Set **_Allow extensions to load custom stylesheets_** to **_enabled_** (_first checkbox at start of the list_)
 * Close everything and restart Opera
 * Enjoy Opera DevTools without shitty warning message!
+
+**DON'T DELETE REPOSITORY FILES FROM YOUR COMPUTER!!!**
