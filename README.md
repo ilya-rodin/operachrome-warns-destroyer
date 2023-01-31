@@ -1,4 +1,9 @@
 # Destroy Opera DevTools warning message
+
+> This area is for use by developers only. Scammers have been known to encourage people to copy/paste information here to hack accounts. Do not proceed if you are unsure.
+
+That's annoying, right? That's your solution
+
 ## Instruction
 * Download files from this repository
 * In Opera open extensions page (**_Ctrl+Shift+E_**)
